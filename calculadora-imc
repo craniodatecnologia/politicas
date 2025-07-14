@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidade - Calculadora IMC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #005b96;
+    }
+    a {
+      color: #0073e6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade – Calculadora IMC</h1>
+  <p><strong>Última atualização:</strong> 14 de julho de 2025</p>
+
+  <p>A sua privacidade é importante para nós. Esta Política de Privacidade descreve como o aplicativo <strong>Calculadora IMC</strong>, desenvolvido por <strong>Bruno Oliveira</strong> e publicado pela <strong>Crânio da Tecnologia</strong>, coleta, usa, armazena e protege as informações fornecidas pelos usuários.</p>
+
+  <h2>1. Coleta de Informações</h2>
+  <p>A Calculadora IMC <strong>não coleta informações pessoais identificáveis</strong> (como nome, e-mail, número de telefone ou localização exata).</p>
+  <p>As únicas informações utilizadas são os dados <strong>informados pelo próprio usuário</strong> para cálculo do Índice de Massa Corporal (IMC), como:</p>
+  <ul>
+    <li>Peso (em kg)</li>
+    <li>Altura (em cm ou metros)</li>
+  </ul>
+  <p>Esses dados são processados <strong>localmente no dispositivo</strong> e <strong>não são armazenados nem transmitidos</strong> a servidores externos.</p>
+
+  <h2>2. Informações Sensíveis de Saúde</h2>
+  <p>Os dados inseridos no aplicativo podem ser considerados <strong>informações sensíveis de saúde</strong>. No entanto:</p>
+  <ul>
+    <li>Não são compartilhados com terceiros.</li>
+    <li>São utilizados exclusivamente para o cálculo e exibição do resultado do IMC.</li>
+    <li>O app <strong>não realiza diagnósticos médicos</strong>, apenas fornece uma estimativa informativa.</li>
+  </ul>
+
+  <h2>3. Publicidade</h2>
+  <p>Este app pode exibir <strong>anúncios do Google AdMob</strong>, que usam identificadores do dispositivo (como ID de publicidade Android) para oferecer publicidade personalizada, conforme suas configurações de privacidade.</p>
+  <p>Você pode desativar a personalização de anúncios em:  
+    <a href="https://adssettings.google.com" target="_blank">https://adssettings.google.com</a></p>
+
+  <h2>4. Segurança dos Dados</h2>
+  <p>Como não coletamos nem armazenamos dados pessoais, não há riscos de vazamento de informações diretamente vinculadas ao usuário. Mesmo assim, todas as operações são realizadas com <strong>boas práticas de desenvolvimento seguro</strong>.</p>
+
+  <h2>5. Crianças</h2>
+  <p>O aplicativo <strong>não é direcionado a crianças menores de 13 anos</strong>. Não coletamos intencionalmente informações de menores. Caso haja suspeita de uso por uma criança, os pais ou responsáveis devem entrar em contato.</p>
+
+  <h2>6. Alterações nesta Política</h2>
+  <p>Esta política pode ser atualizada periodicamente. A versão mais recente sempre estará disponível nesta página.</p>
+
+  <h2>7. Contato</h2>
+  <p>Para dúvidas ou sugestões sobre esta Política de Privacidade, entre em contato:</p>
+  <ul>
+    <li><strong>Desenvolvedor:</strong> Bruno Oliveira</li>
+    <li><strong>Empresa:</strong> Crânio da Tecnologia</li>
+    <li><strong>Email:</strong> craniodatecnologia@gmail.com</li>
+  </ul>
+</body>
+</html>
